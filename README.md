@@ -1,1 +1,1 @@
-# Student-Management-System-MVC
+This is a simple Spring MVC application
